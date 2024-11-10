@@ -11,9 +11,9 @@ This project simulates a basic e-commerce website with product listings, a shopp
 - Tax fees: Displays the tax fees attached to each product in the cart
 
 ## Technologies Used
-- **HTML**: Structure of the pages and elements.
-- **Plain CSS: Styling and layout.
-- **JavaScript**: Handling of product addition to the cart, cart functionality, order summary, and payment.
-- **LocalStorage**: To store the cart data and preserve it across sessions.
+- HTML: Structure of the pages and elements.
+- Plain CSS: Styling and layout.
+- JavaScript: Handling of product addition to the cart, cart functionality, order summary, and payment.
+- LocalStorage: To store the cart data and preserve it across sessions.
 
 
